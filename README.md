@@ -8,7 +8,7 @@ Premium, optimized versions of the 20 Power Prompts from [The Generation X Execu
 
 ## Executive AI Playbook
 
-###Meeting Intelligence & Preparation
+### Meeting Intelligence & Preparation
 
 - [1.1_The_Pre-Meeting_Oracle](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.1_The_Pre-Meeting_Oracle)
 - [1.2_The_Pattern_Spotter](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.2_The_Pattern_Spotter)
@@ -16,7 +16,7 @@ Premium, optimized versions of the 20 Power Prompts from [The Generation X Execu
 - [1.4_ The Accountability Enforcer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.4_The_Accountability_Enforcer)
 - [1.5_The_Agenda_Optimizer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/1.5_The_Agenda_Optimizer)
 
-###Executive Communications
+### Executive Communications
 
 - [2.1_The_Board_Whisperer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/2.1_The_Board_Whisperer)
 - [2.2_The_Multi-Generation_Translator](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/2.2_The_Multi-Generation_Translator)
@@ -24,7 +24,7 @@ Premium, optimized versions of the 20 Power Prompts from [The Generation X Execu
 - [2.4_The_Crisis_Response_Architect](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/2.4_The_Crisis_Response_Architect)
 - [2.5_The_Culture_Pulse_Decoder](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/2.5_The_Culture_Pulse_Decoder)
 
-###Decision Support & Scenario Planning
+### Decision Support & Scenario Planning
 
 - [3.1_The_Scenario_Engine](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/3.1_The_Scenario_Engine)
 - [3.2_The Bias Detector](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/3.2_The_Bias_Detector)
@@ -32,7 +32,7 @@ Premium, optimized versions of the 20 Power Prompts from [The Generation X Execu
 - [3.4_Resource_Allocation_Optimizer](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/3.4_Resource_Allocation_Optimizer)
 - [3.5_Strategic_Risk_Manager](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/3.5_Strategic_Risk_Manager)
 
-###Prioritization & FOcus Management
+### Prioritization & FOcus Management
 
 - [4.1_The_Initiative_Kill_List](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/4.1_The_Initiative_Kill_List)
 - [4.2_Executive_Time_Audit](https://github.com/saren-ai/genx-ai-prompts/blob/main/executive_ai_playbook/4.2_Executive_Time_Audit)
